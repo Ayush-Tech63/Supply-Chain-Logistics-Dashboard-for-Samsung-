@@ -6,7 +6,7 @@ To build an interactive Supply Chain & Logistics Dashboard for Samsung that prov
 
 # ⭐ Key Features
 
-Supplier Overview: Lead time analysis, supplier performance tracking
+Supplier Overview: Lead time analysis, supplier performance tracking.
 
 Inventory Management: Real-time visibility into inventory value and product distribution
 
